@@ -117,7 +117,7 @@ plt.plot(actual_data['date'], actual_data['actual'], 'r-', linewidth=3/2, label 
 plt.legend()
 plt.show()
 
-# https://towardsdatascience.com/random-forest-in-python-24d0893d51c0 
+
 
 
 
